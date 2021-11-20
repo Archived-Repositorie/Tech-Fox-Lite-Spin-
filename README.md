@@ -9,6 +9,7 @@
  - [Mods list](#mod-list) 
  - [Curse Forge](https://www.curseforge.com/minecraft/modpacks/tech-fox)
  - [Discord](https://discord.gg/b2eTtwfQG3)
+ - [Modpacks](#modpacks)
 ## Description
 Lite spin of my modpack. It's just base for other my modpacks, every modpack created by me will have those mods (except versions that are on legacy versions)
 
