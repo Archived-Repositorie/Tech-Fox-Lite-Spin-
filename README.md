@@ -135,3 +135,6 @@ Lite spin of my modpack. It's just base for other my modpacks, every modpack cre
 | Fabric                                    | Jaredlll08         | https://www.curseforge.com/minecraft/mc-mods/controlling-for-fabric              | https://github.com/jaredlll08/Controlling-for-Fabric           | Adds a search bar to the Key-Bindings menu                                                                  |
 | Load My Resources                         |
 | [Fabric]                                  | Keksuccino         | https://www.curseforge.com/minecraft/mc-mods/load-my-resources-fabric            | https://github.com/Keksuccino/Load-My-Resources                | Load resources on game start, like a resource pack, but enabled by default.                                 |
+
+## Modpacks
+[![Tech Fox](https://repository-images.githubusercontent.com/425910722/3eb6b1ea-64f1-4d26-841b-5575f1253110)](https://github.com/JustFoxx/Tech-Fox)
