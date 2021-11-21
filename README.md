@@ -2,7 +2,8 @@
 
 
 # Tech-Fox
-![enter image description here](https://repository-images.githubusercontent.com/425910722/3eb6b1ea-64f1-4d26-841b-5575f1253110)
+
+![2021-11-14_14 55 52](https://user-images.githubusercontent.com/73485099/142756870-322c8987-2cb4-40db-82a5-5640c807ecf5.png)
 
 ## Pages
  - [Description](#description)
